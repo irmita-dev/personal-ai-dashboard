@@ -1,4 +1,5 @@
-<h1>Personal AI Dashboard</h1>
+<h1 align="center">ＰＥＲＳＯＮＡＬ　ＡＩ　ＤＡＳＨＢＯＡＲＤ</h1>
+</p>
 
 <p>
 A full-stack personal productivity dashboard built with <strong>FastAPI</strong> and <strong>React</strong>.  
@@ -9,7 +10,7 @@ The dashboard visualizes productivity, focus, learning and AI usage in a calm, f
 ---
 
 <!-- BADGES -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -19,7 +20,13 @@ The dashboard visualizes productivity, focus, learning and AI usage in a calm, f
 
 ---
 
-<h2><strong>Features</strong></h2>
+<p align="center">
+  <img src="Personal-ai-dashboard-frontend-ai-dashboard-dashboard-demo1.png" width="85%" />
+</p>
+
+---
+
+<h2><strong>ＦＥＡＴＵＲＥＳ</strong></h2>
 
 <ul>
   <li><strong>React Frontend</strong> — cinematic custom UI, zero UI libraries, fully responsive</li>
@@ -32,7 +39,7 @@ The dashboard visualizes productivity, focus, learning and AI usage in a calm, f
 
 ---
 
-<h2><strong>Tech Stack</strong></h2>
+<h2><strong>ＴＥＣＨ　ＳＴＡＣＫ</strong></h2>
 
 <ul>
   <li><strong>Frontend:</strong> React, Vite, Modern CSS, Component-based architecture</li>
@@ -43,7 +50,7 @@ The dashboard visualizes productivity, focus, learning and AI usage in a calm, f
 
 ---
 
-<h2><strong>Project Structure</strong></h2>
+<h2><strong>ＰＲＯＪＥＣＴ　ＳＴＲＵＣＴＵＲＥ</strong></h2>
 
 <pre>
 personal-ai-dashboard/
@@ -71,9 +78,9 @@ personal-ai-dashboard/
 
 ---
 
-<h2><strong>Installation</strong></h2>
+<h2><strong>ＩＮＳＴＡＬＬＡＴＩＯＮ</strong></h2>
 
-<h3>Backend (FastAPI)</h3>
+<h3>ＢＡＣＫＥＮＤ　（ＦＡＳＴＡＰＩ）</h3>
 
 <pre>
 cd backend
@@ -90,7 +97,7 @@ uvicorn src.api.main:app --reload --port 8000
   <li>http://127.0.0.1:8000/docs</li>
 </ul>
 
-<h3>Frontend (React + Vite)</h3>
+<h3>ＦＲＯＮＴＥＮＤ　（ＲＥＡＣＴ　＋　ＶＩＴＥ）</h3>
 
 <pre>
 cd frontend
@@ -100,12 +107,12 @@ npm run dev
 
 <p>Frontend available at:</p>
 <ul>
-  <li>http://localhost:5173</li>
+  <li>http://localhost:5179</li>
 </ul>
 
 ---
 
-<h2><strong>Running Tests</strong></h2>
+<h2><strong>ＲＵＮＮＩＮＧ　ＴＥＳＴＳ</strong></h2>
 
 <pre>
 cd backend
@@ -125,7 +132,7 @@ The backend test suite includes <strong>13 fully passing tests</strong> covering
 
 ---
 
-<h2><strong>API Overview</strong></h2>
+<h2><strong>ＡＰＩ　ＯＶＥＲＶＩＥＷ</strong></h2>
 
 <h3>GET /api/dashboard/overview</h3>
 <p>Returns structured productivity, focus, energy, learning, and analytics data.</p>
@@ -135,15 +142,15 @@ The backend test suite includes <strong>13 fully passing tests</strong> covering
 
 ---
 
-<h2><strong>Preview</strong></h2>
+<h2><strong>ＰＲＥＶＩＥＷ</strong></h2>
 
 <p>
-<img src="./preview/dashboard-preview.png" alt="Dashboard Preview" width="100%" />
+Link: https://github.com/irmita-dev/personal-ai-dashboard/commit/9de59f1146c37d2ae47e0a24b86fb7b4c95ac23a 
 </p>
 
 ---
 
-<h2><strong>Roadmap</strong></h2>
+<h2><strong>ＲＯＡＤＭＡＰ</strong></h2>
 
 <ul>
   <li>Real Weather API integration</li>
@@ -156,9 +163,9 @@ The backend test suite includes <strong>13 fully passing tests</strong> covering
 
 ---
 
-<h2><strong>Author</strong></h2>
+<h2><strong>ＡＵＴＨＯＲ</strong></h2>
 
 <p>
-<strong>Irmita Dev — Python Developer</strong><br>
-Building • Learning • Improving
+<strong>𝐈𝐑𝐌𝐈𝐓𝐀 𝐃𝐄𝐕 — 𝐏𝐘𝐓𝐇𝐎𝐍 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</strong><br>
+𝐵𝑢𝑖𝑙𝑑𝑖𝑛𝑔 • 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 • 𝐼𝑚𝑝𝑟𝑜𝑣𝑖𝑛𝑔
 </p>
